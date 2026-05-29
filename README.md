@@ -1,0 +1,2 @@
+# SkillRaceCreator
+SkillRaceCreator OSRS plugin

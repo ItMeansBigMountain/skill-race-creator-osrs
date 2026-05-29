@@ -1,0 +1,13 @@
+{
+  "name": "SkillRaceCreator",
+  "version": "1.0.0",
+  "description": "sets up skill-based competitions with real-time leaderboards",
+  "author": "Affan Fareed",
+  "tags": [
+    "osrs",
+    "runelite",
+    "plugin",
+    "skillracecreator"
+  ],
+  "min_engine_version": "3.0.0"
+}
