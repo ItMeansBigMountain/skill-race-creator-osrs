@@ -1,13 +1,15 @@
 {
   "name": "SkillRaceCreator",
   "version": "1.0.0",
-  "description": "sets up skill-based competitions with real-time leaderboards",
-  "author": "Affan Fareed",
+  "description": "Tracks a configured OSRS skill race target with lightweight in-game progress messages.",
+  "author": "Oyama",
   "tags": [
     "osrs",
     "runelite",
-    "plugin",
-    "skillracecreator"
+    "skill",
+    "race",
+    "xp",
+    "competition"
   ],
   "min_engine_version": "3.0.0"
 }
