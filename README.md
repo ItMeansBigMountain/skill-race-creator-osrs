@@ -72,3 +72,7 @@ Then verify:
 ## Plugin Hub prep notes
 
 Before plugin-hub submission, capture at least one screenshot/GIF of the config panel and an in-game progress message. If the plugin grows into shared competitions or public leaderboards, document the external API provider, rate limits, cache strategy, privacy implications, and failure behavior before submission.
+
+## Product direction update
+
+This standalone concept is superseded by RivalRadar. The desired product is one rival-by-username side-panel dashboard with optional deadline/race mode and all available tracking API comparisons, instead of separate boss rival, skill nemesis, and skill race plugins. Keep this repo only as historical scaffold/reference unless the user explicitly asks to delete or revive it.
